@@ -1,0 +1,1 @@
+for every file, running through simple ```python run filename.py``` would provide the results
